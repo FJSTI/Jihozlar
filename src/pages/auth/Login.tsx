@@ -112,9 +112,9 @@ const Login: React.FC = () => {
           </div>
 
           <div className="mt-4 text-sm text-gray-500">
-            <div className="mb-2">Administrator: admin@example.com / admin123</div>
-            <div className="mb-2">Bo'lim boshlig'i: department@example.com / dept123</div>
-            <div>Mehmon: guest@example.com / guest123</div>
+            <div className="mb-2">Administrator: Xondamir / admin1234567890</div>
+            <div className="mb-2">Bo'lim boshlig'i: Bobur/ bobur123</div>
+            <div>Mehmon: kuzatuvchi / 12345678 </div>
           </div>
         </div>
       </div>
